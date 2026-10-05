@@ -1,6 +1,6 @@
 # linear-algebra
 
-Small Python implementations of elementary linear algebra concepts, written for practice.
+Small Python implementations of linear algebra concepts, written for practice.
 
 ## Contents
 
@@ -10,7 +10,7 @@ Small Python implementations of elementary linear algebra concepts, written for 
 ## Requirements
 
 - Python 3
-- NumPy (for `gaussian.py`)
+- NumPy 
 
 ## Usage
 
