@@ -1,6 +1,6 @@
 # linear-algebra
 
-Small Python implementations of elementary linear algebra routines, written for practice.
+Small Python implementations of elementary linear algebra concepts, written for practice.
 
 ## Contents
 
